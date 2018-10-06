@@ -11,7 +11,7 @@
 
 | 原书 | 源码 | 贡献者 |
 | --- | --- | --- |
-| [Getting Started with TensorFlow](https://www.packtpub.com/mapt/book/big_data_and_business_intelligence/9781786468574) | [&#x1f4dd;](getting-started-with-tf) | [&#x1f4dd;](https://gitee.com/wizardforcel/sklearn-cb) | [飞龙](https://github.com/wizardforcel) |
+| [Getting Started with TensorFlow](https://www.packtpub.com/mapt/book/big_data_and_business_intelligence/9781786468574) | [&#x1f4dd;](getting-started-with-tf) | [飞龙](https://github.com/wizardforcel) |
 
 ## Keras
 
